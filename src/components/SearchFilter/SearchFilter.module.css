@@ -1,0 +1,9 @@
+.filterContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.filterInput {
+  width: 30vw;
+}

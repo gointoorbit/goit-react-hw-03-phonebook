@@ -1,0 +1,11 @@
+.itemContainer {
+  padding-inline: 10px;
+}
+
+.buttonItem {
+  margin-left: 10px;
+  padding: 5px;
+  border-radius: 5%;
+  border: none;
+  box-shadow: 8px 10px 15px -14px rgba(21, 32, 40, 1);
+}
